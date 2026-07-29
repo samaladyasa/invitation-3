@@ -1,0 +1,225 @@
+{
+  "primaryColor": "#8FAD88",
+  "wedding": {
+    "groom": { "name": "Rohan Mehta", "parents": "Smt. Sunita & Shri Rajendra Mehta" },
+    "bride": { "name": "Meera Sharma", "parents": "Smt. Meenakshi & Shri Vikram Sharma" },
+    "sanskritInvocation": "॥ श्री गणेशाय नमः ॥",
+    "sanskritInvocationMeaning": "Om Shri Ganeshaya Namah — Seeking blessings of Lord Ganesha",
+    "weddingDate": "2026-12-12T11:30:00",
+    "formattedDate": "Saturday, December 12, 2026",
+    "formattedTime": "11:30 AM IST",
+    "monogram": "R & M",
+    "blessing": "Together with their families, Rohan & Meera invite you to share in their joy."
+  },
+  "hero": {
+    "backgroundImage": "https://res.cloudinary.com/xzimezus/video/upload/v1785108914/TensorPix_-_Boat_gliding_upward_revealing_pond_202607270413_online-video-cutter_zxttkr.mp4",
+    "stats": [
+      { "icon": "https://cdn-icons-png.flaticon.com/128/1828/1828884.png", "text": "Saturday, December 12, 2026" },
+      { "icon": "https://cdn-icons-png.flaticon.com/128/616/616494.png", "text": "11:30 AM IST • Udaipur, Rajasthan" }
+    ],
+    "title": "Rohan Mehta",
+    "subtitle": "weds",
+    "buttons": [
+      { "text": "Save the Date", "link": "#save-the-date", "type": "primary", "icon": "📅" },
+      { "text": "View Events", "link": "#events", "type": "secondary", "icon": "🎉" }
+    ],
+    "decorations": [
+      { "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400&q=80", "className": "absolute left-0 bottom-0 w-16 h-16" },
+      { "src": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400&q=80", "className": "absolute right-0 top-0 w-12 h-12" }
+    ]
+  },
+  "story": {
+    "tag": "OUR STORY",
+    "headline": "Chapters of Togetherness",
+    "description": "From a chance cup of chai in Mumbai to a sunset proposal on Lake Pichola — small moments that became our story.",
+    "milestones": [
+      {
+        "id": "1",
+        "title": "The first cup of chai",
+        "date": "October 14, 2021",
+        "location": "Mumbai",
+        "description": "A chance meeting over steaming masala chai at a literature festival turned into a four-hour conversation.",
+        "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=1000",
+        "quote": "I ordered a simple masala chai, but found a lifetime of warmth in her smile."
+      },
+      {
+        "id": "2",
+        "title": "The summer of us",
+        "date": "March 20, 2023",
+        "location": "Rishikesh & Goa",
+        "description": "Beach drives in Goa, monsoon coffee in Bangalore, and one late-night call where we both finally said it out loud.",
+        "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&q=80&w=1000",
+        "quote": "Surrounded by mountains and ringing temple bells, we realized home wasn't a place, but each other."
+      },
+      {
+        "id": "3",
+        "title": "A Pichola sunset proposal",
+        "date": "November 05, 2025",
+        "location": "Udaipur Ghats",
+        "description": "Under a blanket of shimmering lanterns on Lake Pichola, Rohan asked the question Meera's heart had answered long ago.",
+        "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=1000",
+        "quote": "The lake reflected a thousand floating diyas, but nothing shone brighter than her tears of joy."
+      }
+    ]
+  },
+  "gallery": {
+    "tag": "GALLERY HIGHLIGHTS",
+    "headline": "Moments From Our Engagement & Pre-Wedding Shoots",
+    "images": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=1200",
+      "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=1200",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=1200"
+    ]
+  },
+  "venue": {
+    "name": "The Royal Palace Resort",
+    "hall": "Grand Durbar Ballroom & Lawns",
+    "address": "Palace Road, Near Fatehsagar Lake",
+    "city": "Udaipur, Rajasthan",
+    "pincode": "313001",
+    "googleMapsUrl": "https://maps.google.com/?q=Fatehsagar+Lake+Udaipur",
+    "coordinates": { "lat": 24.601, "lng": 73.673 }
+  },
+  "saveTheDate": {
+    "tag": "SAVE THE DATE",
+    "headline": "December 12, 2026 — Join Us For The Muhurat",
+    "button": { "text": "Add To Calendar", "link": "#save-the-date" },
+    "backgroundImage": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1600&q=80",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800",
+    "circles": [ { "label": "Date", "value": "12", "subtext": "Saturday" }, { "label": "Month", "value": "DEC", "subtext": "December" }, { "label": "Year", "value": "2026", "subtext": "2026" } ]
+  },
+  "events": [
+    {
+      "id": "mehndi",
+      "name": "Mehndi Ceremony",
+      "sanskritName": "मेहंदी उत्सव",
+      "date": "Friday, Dec 11, 2026",
+      "time": "10:00 AM Onwards",
+      "venue": "Mango Grove Lawns, Royal Palace Resort",
+      "dressCode": "Traditional Ethnic in Shades of Pistachio & Olive",
+      "accentColor": "#4A6048",
+      "description": "An afternoon filled with intricate henna designs, folk tunes, sweet treats, and colorful laughter under sage canopy tents."
+    },
+    {
+      "id": "haldi",
+      "name": "Haldi Ceremony",
+      "sanskritName": "हल्दी समारोह",
+      "date": "Friday, Dec 11, 2026",
+      "time": "03:30 PM Onwards",
+      "venue": "Courtyard Poolside",
+      "dressCode": "Soft Pastel Yellow & Sunshine Cream",
+      "accentColor": "#B88E3E",
+      "description": "Smearing holy turmeric paste onto the bride & groom with playful marigold petal showers and live dhol beats."
+    },
+    {
+      "id": "sangeet",
+      "name": "Sangeet & Cocktail Night",
+      "sanskritName": "संगीत संध्या",
+      "date": "Friday, Dec 11, 2026",
+      "time": "07:30 PM Onwards",
+      "venue": "Royal Crystal Amphitheatre",
+      "dressCode": "Glamorous Emerald & Soft Gold Indowesterns",
+      "accentColor": "#3B5249",
+      "description": "An energetic evening of choreography, family dance performances, live musical acts, and celebratory toasts."
+    },
+    {
+      "id": "wedding",
+      "name": "The Wedding Ceremony",
+      "sanskritName": "शुभ विवाह (सप्तपदी)",
+      "date": "Saturday, Dec 12, 2026",
+      "time": "11:30 AM Muhurat (Baraat at 10)",
+      "venue": "Grand Durbar Mandap",
+      "dressCode": "Royal Sage & Cream Silk Sarees & Sherwanis",
+      "accentColor": "#8FAD88",
+      "description": "The sacred Phere and exchange of garlands (Varmala) around the holy fire to unite two souls forever."
+    }
+  ],
+  "faq": {
+    "tag": "FAQ",
+    "headline": "Frequently Asked Questions",
+    "items": [
+      { "question": "Where is the wedding taking place?", "answer": "The Royal Palace Resort, Grand Durbar Ballroom & Lawns, Palace Road, Near Fatehsagar Lake, Udaipur, Rajasthan." },
+      { "question": "What are the dates and timings?", "answer": "Mehndi/Haldi/Sangeet: Dec 11, 2026 (times vary). Wedding Ceremony (Muhurat): Saturday, Dec 12, 2026 • 11:30 AM IST." },
+      { "question": "What is the dress code?", "answer": "Each event has suggested dress codes — see the Events section for details (e.g., Traditional Ethnic for Mehndi, Pastel Yellow for Haldi, Emerald & Gold for Sangeet)." },
+      { "question": "How can I add events to my calendar?", "answer": "Use the 'Add to Calendar' button on each event card to add Google Calendar or download an .ics file for Outlook." }
+    ]
+  },
+  "communitySection": {
+    "backgroundImage": "",
+    "title": "Join Our Guest List",
+    "subtitle": "Subscribe for venue updates, schedule changes, and travel tips.",
+    "inputPlaceholder": "Enter your email address",
+    "buttonText": "Subscribe"
+  },
+  "about": {
+    "banner": {
+      "backgroundImage": "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=1600&q=80",
+      "title": "About Rohan & Meera",
+      "breadcrumb": [ "Home", "About" ]
+    },
+    "intro": {
+      "tag": "KNOW",
+      "heading": "About The Couple",
+      "paragraphs": [
+        "Rohan & Meera met in Mumbai over a shared love of books and chai. Their friendship grew into a lifelong partnership through travels, shared dreams, and family bonds.",
+        "Their journey includes quiet sunsets on Lake Pichola, joyful travels across Goa and Rishikesh, and a proposal beneath lanterns overlooking the water.",
+        "They invite you to join their celebration as they begin this new chapter together on December 12, 2026."
+      ]
+    },
+    "principal": {
+      "imageUrl": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440,f_auto/MA_00625441_ylkq2v.jpg",
+      "imageAlt": "Couple Portrait",
+      "identText": "MESSAGE",
+      "title": "A Note From The Couple",
+      "signatureImageUrl": "",
+      "signatureAlt": "",
+      "sectionTitle": "Our Message",
+      "name": "Rohan & Meera",
+      "subtitle": "With Love and Gratitude",
+      "messageParagraphs": [
+        "We are so excited to share our special day with the people we love. Your presence is the greatest gift and we look forward to celebrating together.",
+        "Please check the Events section for schedules and dress codes, and reach out via the contact form with any questions."
+      ],
+      "signatureName": "Rohan & Meera",
+      "signatureTitle": ""
+    },
+    "missionVision": {
+      "mission": { "title": "Our Promise", "paragraphs": [ "To honor family, tradition, and the life we will build together." ] },
+      "vision": { "title": "Our Vision", "paragraph": "A lifelong partnership rooted in love, laughter, and shared adventures.", "values": [ { "label": "Love" }, { "label": "Family" }, { "label": "Tradition" } ] }
+    },
+    "milestones": [
+      { "title": "First Meeting", "date": "October 14, 2021", "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=400", "description": "A chance meeting that changed everything." },
+      { "title": "Engagement", "date": "November 05, 2025", "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=400", "description": "A proposal by Lake Pichola under lanterns." }
+    ]
+  },
+  "contact": {
+    "tag": "CONTACT",
+    "heading": "Get In Touch",
+    "form": {
+      "fields": [
+        { "id": "firstName", "label": "First Name", "type": "text", "placeholder": "Your first name", "required": true },
+        { "id": "lastName", "label": "Last Name", "type": "text", "placeholder": "Your last name", "required": true },
+        { "id": "email", "label": "Email", "type": "email", "placeholder": "you@example.com", "required": true },
+        { "id": "phone", "label": "Phone", "type": "text", "placeholder": "Optional phone number", "required": false },
+        { "id": "message", "label": "Message", "type": "textarea", "placeholder": "Your message or RSVP notes", "required": true }
+      ],
+      "checkboxes": [ { "id": "contactConsent", "label": "I agree to be contacted about event details" } ],
+      "submitButton": "Send Message →",
+      "securityMessage": "Your information is secure and will never be shared." 
+    },
+    "map": { "title": "Venue Map", "address": "Palace Road, Near Fatehsagar Lake, Udaipur, Rajasthan", "mapImageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&q=80" },
+    "quickContact": {
+      "title": "Quick Contact",
+      "items": [
+        { "icon": "phone", "title": "Call Us", "detail": "+91-90000-00000", "subtext": "Mon-Fri 9AM-6PM IST" },
+        { "icon": "email", "title": "Email", "detail": "hello@rohanmeera.com", "subtext": "Response within 48 hours" }
+      ]
+    }
+  },
+  "footer": {
+    "brand": { "logo": "", "name": "Rohan & Meera", "description": "Wedding celebration — December 12, 2026" },
+    "quickLinks": { "title": "Quick Links", "links": [ { "text": "About", "url": "#our-story" }, { "text": "Events", "url": "#events" }, { "text": "Gallery", "url": "#gallery" }, { "text": "Venue", "url": "#venue" }, { "text": "RSVP", "url": "#save-the-date" } ] },
+    "contact": { "title": "Contact Us", "items": [ "The Royal Palace Resort, Palace Road, Udaipur", "Email: hello@rohanmeera.com" ] },
+    "social": { "title": "Follow Us", "links": [ { "platform": "instagram", "url": "https://instagram.com" }, { "platform": "facebook", "url": "https://facebook.com" } ] }
+  }
+}
