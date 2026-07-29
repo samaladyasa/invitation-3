@@ -6,8 +6,8 @@ export const EndingSection = () => {
   const data = DATA.wedding || {};
   return (<footer id="ending" className="relative py-16 sm:py-20 px-4 overflow-hidden text-center">
       <div className="pointer-events-none absolute inset-0 overflow-hidden">
-        <img src={peacockBgAlt} alt="Peacock background secondary" className="absolute inset-0 h-full w-full object-cover object-bottom"/>
-        <img src={peacockBg} alt="Peacock background primary" className="absolute inset-0 h-full w-full object-cover object-top"/>
+        <img src={peacockBgAlt} alt="" aria-hidden="true" style={{fontSize: 0, lineHeight: 0}} className="absolute inset-0 h-full w-full object-cover object-bottom"/>
+        <img src={peacockBg} alt="" aria-hidden="true" style={{fontSize: 0, lineHeight: 0}} className="absolute inset-0 h-full w-full object-cover object-top"/>
         <div className="absolute inset-0 bg-gradient-to-t from-[#FAF7F2]/90 via-[#FAF7F2]/80 to-transparent"/>
       </div>
       <div className="relative z-10 py-12 px-6 sm:px-10 mx-auto max-w-2xl">
