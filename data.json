@@ -14,14 +14,14 @@
   "hero": {
     "backgroundImage": "https://res.cloudinary.com/xzimezus/video/upload/v1785108914/TensorPix_-_Boat_gliding_upward_revealing_pond_202607270413_online-video-cutter_zxttkr.mp4",
     "stats": [
-      { "icon": "https://cdn-icons-png.flaticon.com/128/1828/1828884.png", "text": "Saturday, December 12, 2026" },
-      { "icon": "https://cdn-icons-png.flaticon.com/128/616/616494.png", "text": "11:30 AM IST • Udaipur, Rajasthan" }
+      { "text": "Saturday, December 12, 2026" },
+      { "text": "11:30 AM IST • Udaipur, Rajasthan" }
     ],
     "title": "Rohan Mehta",
     "subtitle": "weds",
     "buttons": [
-      { "text": "Save the Date", "link": "#save-the-date", "type": "primary", "icon": "📅" },
-      { "text": "View Events", "link": "#events", "type": "secondary", "icon": "🎉" }
+      { "text": "Save the Date", "link": "#save-the-date", "type": "primary" },
+      { "text": "View Events", "link": "#events", "type": "secondary" }
     ],
     "decorations": [
       { "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400&q=80", "className": "absolute left-0 bottom-0 w-16 h-16" },
@@ -211,8 +211,8 @@
     "quickContact": {
       "title": "Quick Contact",
       "items": [
-        { "icon": "phone", "title": "Call Us", "detail": "+91-90000-00000", "subtext": "Mon-Fri 9AM-6PM IST" },
-        { "icon": "email", "title": "Email", "detail": "hello@rohanmeera.com", "subtext": "Response within 48 hours" }
+        { "title": "Call Us", "detail": "+91-90000-00000", "subtext": "Mon-Fri 9AM-6PM IST" },
+        { "title": "Email", "detail": "hello@rohanmeera.com", "subtext": "Response within 48 hours" }
       ]
     }
   },
